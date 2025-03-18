@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anish
+- 👋 Hi, I’m @Anisha
 - 👀 I’m interested in AR/VR development
 - 🌱 I’m currently learning 3d modeling in Blender
 - 💞️ I’m looking to collaborate on AR projects
