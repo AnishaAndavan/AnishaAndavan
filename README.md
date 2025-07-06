@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anisha S</h1>
-<h3 align="center">A passionate AR/Game developer from India</h3>
+<h3 align="center">A passionate Computer Science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishaandavan&label=Profile%20views&color=0e75b6&style=flat" alt="anishaandavan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishaandavan" alt="anishaandavan" /></a> </p>
 
-- 🔭 I’m currently working on **AR educational app**
+- 🔭 I’m currently working on **Virtual try on project**
 
-- 🌱 I’m currently learning **Blender 3d modeling, c++**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **AR/VR projects with 3d modeling**
+- 👯 I’m looking to collaborate on **Solving Real world problem**
 
-- 💬 Ask me about **Unity 3d, Augmented Reality**
+- 💬 Ask me about **Front end, Unity 3D, c++**
 
 - 📫 How to reach me **anishaandavan503@gmail.com**
 
