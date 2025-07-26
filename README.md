@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishaandavan" alt="anishaandavan" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual try on project**
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👯 I’m looking to collaborate on **Solving Real world problem**
 
-- 💬 Ask me about **Front end, Unity 3D, c++**
+- 💬 Ask me about **Front end, Java, c++, Unity 3D**
 
 - 📫 How to reach me **anishaandavan503@gmail.com**
 
