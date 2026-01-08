@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anishaandavan503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PQsgO3mDjWMo6gXERqkaMcG9ZHt9-ILf/view?usp=drive_link](https://drive.google.com/file/d/1PQsgO3mDjWMo6gXERqkaMcG9ZHt9-ILf/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17WXp_rmG2y89mpzLUixoboIsVpuNCNXQ/view?usp=drive_link](https://drive.google.com/file/d/17WXp_rmG2y89mpzLUixoboIsVpuNCNXQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
