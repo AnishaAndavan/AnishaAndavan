@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishaandavan&label=Profile%20views&color=0e75b6&style=flat" alt="anishaandavan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishaandavan" alt="anishaandavan" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Solving Real world problem**
 
-- 💬 Ask me about **Front end, Java, c++, Unity 3D**
+- 💬 Ask me about **Java, HTML, CSS, React, Sql, MongoDB**
 
 - 📫 How to reach me **anishaandavan503@gmail.com**
 
